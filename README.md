@@ -1,2 +1,2 @@
-# cassandra-notes
-My Cassandra notes and code example
+# Cassandra Notes and Node.js Practice 
+My Cassandra notes and code examples.
